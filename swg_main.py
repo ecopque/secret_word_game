@@ -24,3 +24,5 @@ while True:
         print('Tentativas:', numero_tentativas)
         letras_acertadas = '' #
         numero_tentativas = 0 #
+
+# Edson Copque | https://linktr.ee/edsoncopque
